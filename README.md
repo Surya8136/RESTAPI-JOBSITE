@@ -7,7 +7,6 @@ Features,
 Tech stack,
 API Overview,
 Authentication,
-Project Overview
 
 RESTAPI-JOBSITE is a backend application that exposes RESTful endpoints for managing job postings, applications, and user accounts for a job board/site.
 
